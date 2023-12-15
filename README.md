@@ -19,19 +19,13 @@ This Java-based calculator application built using Swing provides a comprehensiv
 
 2. **Running the Application:**
    - Compile the Java files.
-   - Run the `Calculator.java` file to launch the calculator.
+   - Run the `CalculatorGUI.jar` file to launch the calculator.
 
 3. **Using the Calculator:**
    - Click on numeric buttons to input numbers.
    - Utilize operator buttons for arithmetic and advanced functions.
    - Memory buttons for storage and retrieval of values.
 
-## Troubleshooting Font Display in Adobe Acrobat Pro
-
-If encountering font display issues in Adobe Acrobat Pro:
-- Confirm all font variations of Raleway are installed.
-- Clear font cache or check Adobe's font settings.
-- Reinstall the font family if variations are not recognized.
 
 ## Contribution
 
